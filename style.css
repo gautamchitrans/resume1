@@ -1,0 +1,94 @@
+body{
+    background-color: rgba(52, 125, 133, 0.586);
+    }
+    .image{
+      
+        width: 230px;
+        height: 225px;
+    }
+    .container{
+    text-align: center;
+       text-decoration: none;
+    }
+    .name{
+        list-style: none;
+        color: green;
+        font-size: 30px;
+    
+    }
+    #bio{
+        text-decoration: none;
+        list-style: none;
+        margin-top: 0px;
+    }
+    .mail{  list-style: none;
+        color: rgb(255, 0, 68);
+        font-size: 15px;
+    }
+    .address{
+        list-style: none;
+        font-size: 19px;
+    }
+    .resume{
+        list-style: none;
+        text-decoration: none;
+        color: rgb(60, 9, 9);
+        text-align: center;
+        margin-top: 20px;
+        font-size: 60px;
+        border-bottom: solid;
+        height:90px;
+    }
+    
+    .seperation{
+    
+        color: green;
+        text-align: center;
+        font-size: 40px;
+        margin-top: 50px;
+        border: solid 2px;
+        border-left: 2px;
+        border-right: 2px;
+        border-top: 2px;
+        height: 50px;
+    }
+    nav{
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    .first{
+        margin-top: 62px;
+    }
+    .second{
+        margin-top: 34px;
+    }
+    .third{
+        margin-top: 33px;
+    }
+    .des{
+        margin-top: 2px;
+        margin-left: 1px;
+    }
+    .project1{
+        font-size: 25px;
+    }
+    .technical{
+        font-size: 25px;
+        margin-left: 30px;
+    }
+    .technicallist{
+        font-size: 20px;
+        margin-left: 30px;
+    }
+    .language{
+        font-size: 25px;
+        font-size: 20px;
+        margin-left: 30px;
+    }
+    .language1{
+        font-size: 20px;
+        margin-left: 30px;
+    }
+    .last{
+        font-size: 25px;
+    }
